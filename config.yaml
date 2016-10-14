@@ -1,0 +1,13 @@
+---
+# Used for post message action
+post_message_action:
+  webhook_url: "https://hooks.slack.com/services/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"
+  username: "asandela"
+  icon_emoji: ":smirk:"
+  message: "No Results"
+
+# Used for Slack sensor
+sensor:
+  token: ""
+  strip_formatting: false
+
